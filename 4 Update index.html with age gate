@@ -80,7 +80,8 @@
 
 <div class="content">
     <h1>Welcome to PicWava</h1>
-    <p>A simple photo‑sharing social concept.</p>
+    <p>A simple photo‑sharing social concept.</p> <img src="yourphoto.jpg" alt="Photo" width="300">
+
 </div>
 
 <script>
